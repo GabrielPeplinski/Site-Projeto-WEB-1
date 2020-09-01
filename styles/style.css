@@ -1,0 +1,178 @@
+html{
+	background-color:#d0ecf7;
+	overflow-y: scroll;
+	width:100%;
+}
+
+.largura{
+	width:900px;
+	margin:0 auto;
+	overflow: hidden;
+	height:100%;
+}
+
+.nav{
+	padding:1em;
+	word-spacing: 1em;
+	background-color:#d0ecf7;
+	font-size: 1.5em;
+}
+
+article{
+	width:33.33%;
+	float:left;
+	padding:1em;
+}
+
+.caixa{
+	background-color: white;
+	border: 2px solid #003399;
+	border-radius: 5px;
+	overflow:hidden;
+	padding:1em;
+	margin-bottom:1em;
+	height:300px;
+}
+
+h1{
+	text-align:center;
+}
+
+address{
+	padding:1.5em;
+	text-align:center;
+	background-color:black;
+	color:white;
+	
+}
+
+blockquote{
+	text-align:center;
+	color:#003399;
+	padding:1em;
+	font-family:italic;
+	margin-left: auto;
+    margin-right: auto;
+    width:500px;
+	
+}
+
+article > p {
+	margin: 1em 1em 1em 1em;
+}
+
+h1{
+	background-image: url('../apsIMG/CPU.jpg');
+	font-size: 2em;
+	padding:2em;
+	background-color:#4682b4;
+	color: white;
+	font-family: 'Bungee Inline', cursive;
+}
+
+a:link,
+a:visited,
+a:active,
+a:hover{
+	color:#003399;
+}
+
+main{
+	overflow:hidden;
+}
+
+.lista{
+	padding:1em;
+	font-size:1.5em;
+	width:500px;;
+	font-style:italic;
+	float:left;
+	margin-right:3em;
+}
+
+ul{
+	list-style-type: square;
+}
+
+h3{
+	margin-bottom:1em;
+	text-align:left;
+}
+
+.info{
+	font-style:italic;
+	float:left;
+	width:500px;
+	font-size:1.5em;
+	padding:1em;
+	text-align:justify;
+	margin-left:3em;
+}
+
+.info > p {
+	text-indent:1em;
+}
+
+strong{
+	font-weight:bold;
+}
+
+.form {
+	float: left;
+	background-image:url('../apsIMG/CPU.jpg');
+	color:white;
+	width:900px;
+	font-size:20px;
+	font-family:bold;
+	text-align:center;
+	border-radius: 10px;
+	margin-right:auto;
+	margin-left:auto;
+	border: 2px solid #003399;
+}
+
+::placeholder{
+	color:#003399;
+}
+
+table{
+	margin-right:auto;
+	margin-left:auto;
+}
+
+.tabela{
+	margin-left:auto;
+	margin-right:auto;
+	width:1000px;
+	padding:1em;
+	border:2px solid black;
+	background-color:#003399;
+}
+
+th,td{
+	padding: 7px 20px;
+	border: 1px solid black;
+}
+
+td{
+	background-color:white;
+}
+
+thead{
+	background-color:#003399;
+}
+	
+
+em{
+	font-family:italic;
+	font-weight:bold;
+	text-decoration:underline;
+}
+
+.novidades{
+	margin-left:2em;
+	width:800px;
+	height:150px;
+	font-family:bold;
+	padding:1em;
+}
