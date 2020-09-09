@@ -119,7 +119,7 @@ strong{
 
 .form {
 	float: left;
-	background-image:url('./styles/CPU.jpg');
+	background-image:url('CPU.jpg');
 	color:white;
 	width:900px;
 	font-size:20px;
