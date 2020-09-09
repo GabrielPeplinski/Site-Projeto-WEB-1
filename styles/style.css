@@ -62,7 +62,7 @@ article > p {
 }
 
 h1{
-	background-image: url('../apsIMG/CPU.jpg');
+	background-image: url('./styles/CPU.jpg');
 	font-size: 2em;
 	padding:2em;
 	background-color:#4682b4;
@@ -119,7 +119,7 @@ strong{
 
 .form {
 	float: left;
-	background-image:url('../apsIMG/CPU.jpg');
+	background-image:url('./styles/CPU.jpg');
 	color:white;
 	width:900px;
 	font-size:20px;
