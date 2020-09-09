@@ -62,7 +62,7 @@ article > p {
 }
 
 h1{
-	background-image: url('./styles/CPU.jpg');
+	background-image: url('CPU.jpg');
 	font-size: 2em;
 	padding:2em;
 	background-color:#4682b4;
